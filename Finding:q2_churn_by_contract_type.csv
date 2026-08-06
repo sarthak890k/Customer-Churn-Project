@@ -1,0 +1,4 @@
+contract,count(*),churn_rate,churned_customers
+"Two year",1695,2.83,48
+"One year",1473,11.27,166
+Month-to-month,3875,42.71,1655
